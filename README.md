@@ -9,7 +9,11 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: ...?
 - 😄 Pronouns: wh@t th3 fvck?
-- ⚡ Fun fact: I'm a normal boy! (from my perspective)
+- ⚡ Fun fact: 
+   * I'm a normal boy! (from my perspective)
+   * I am Termux user
+   * I am learning how to code my self
+   * my IDE: Android(Termux) with Neovim :v
 
 ### I'd like to describe something (with python!):
 ```bash
