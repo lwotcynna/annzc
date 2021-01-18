@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 - 🔭 I’m currently working on nothing
@@ -11,7 +11,7 @@
 - 😄 Pronouns: wh@t th3 fvck?
 - ⚡ Fun fact: I'm a normal boy! (from my perspective)
 
-I'd like to describe something (with python!):
+### I'd like to describe something (with python!):
 ```bash
 #!$PREFIX/bin/python
 # file name: Obsession.py
