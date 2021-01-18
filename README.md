@@ -41,7 +41,7 @@ def OtakuMe():
     elif Object.lower() == "learn to code":
         Obs(Object)
     else:
-        Obs("do something")
+        Obs("doing something")
 
 OtakuMe()
 ```
