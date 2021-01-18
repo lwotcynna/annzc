@@ -14,7 +14,7 @@
 ### I'd like to describe something (with python!):
 ```bash
 #!$PREFIX/bin/python
-# file name: Obsession.py
+# file name: $HOME/github/bio/Obsession.py
 
 def ObsessedWith(doing_exciting_things):
     while True:
@@ -23,7 +23,7 @@ def ObsessedWith(doing_exciting_things):
 ```
 ```bash
 #!$PREFIX/bin/python
-# file name: Idontgiveafuck.py
+# file name: $HOME/github/bio/Idontgiveafuck.py
 
 from Obsession import ObsessedWith as Obs
 
