@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning python :)
 - 🇲🇨 I'm an Indonesian (I use English as my learning)
 - 👯 I’m looking to collaborate on nothing
-- 🤔 I’m looking for help with nobody
+- 🤔 I’m looking for help with anyone
 - 💬 Ask me about nothing
 - 📫 How to reach me: ...?
 - 😄 Pronouns: wh@t th3 fvck?
