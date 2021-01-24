@@ -1,6 +1,8 @@
+<br>
+<img align="center" alt="GIF" src="https://dl.dropbox.com/s/gnbhr4ntoyna4hh/chikka.gif"/>
+<img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+
 ## Hi there 👋
-
-
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning python :)
 - 🇲🇨 I'm an Indonesian (I use English as my learning)
@@ -18,7 +20,7 @@
 
 ### I'd like to describe something (with python!):
 ```bash
-#!$PREFIX/bin/python
+#!/data/data/com.termux/files/usr/bin/python
 # file name: $HOME/github/bio/Obsession.py
 
 def ObsessedWith(doing_exciting_things):
@@ -27,7 +29,7 @@ def ObsessedWith(doing_exciting_things):
 
 ```
 ```bash
-#!$PREFIX/bin/python
+#!/data/data/com.termux/files/usr/bin/python
 # file name: $HOME/github/bio/Idontgiveafuck.py
 
 from Obsession import ObsessedWith as Obs
