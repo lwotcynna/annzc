@@ -1,5 +1,5 @@
 <br>
-<img align="center" alt="GIF" src="https://dl.dropbox.com/s/gnbhr4ntoyna4hh/chikka.gif"/>
+<img align="center" alt="GIF" height="150px" src="https://dl.dropbox.com/s/gnbhr4ntoyna4hh/chikka.gif"/>
 <img align="right" alt="GIF" height="125px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 
 ## Hi there 👋
@@ -10,9 +10,9 @@
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about nothing
 - 📫 How to reach me: ...?
-- 😄 Pronouns: wh@t th3 fvck?
-- ⚡ Fun fact: 
-   * I'm a normal boy! (from my perspective)
+- 😄 Pronouns: i dont know ??
+- ⚡ Not a fun fact: 
+   * I'm a normal boy :)
    * I am Termux user
    * I am learning how to code my self
    * my IDE: Android(Termux) with Neovim :v
