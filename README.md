@@ -5,46 +5,14 @@
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning python :)
-- 🇲🇨 I'm an Indonesian (I use English as my learning)
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about nothing
-- 📫 How to reach me: ...?
 - 😄 Pronouns: i dont know ??
 - ⚡ Not a fun fact: 
    * I'm a normal boy :)
    * I am Termux user
    * I am learning how to code my self
    * my IDE: Android(Termux) with Neovim :v
-   * Emboh lah 
-
-### I'd like to describe something (with python!):
-```bash
-#!/data/data/com.termux/files/usr/bin/python
-# file name: $HOME/github/bio/Obsession.py
-
-def ObsessedWith(doing_exciting_things):
-    while True:
-        print(f"I am {doing_exciting_things} all the time")
-
-```
-```bash
-#!/data/data/com.termux/files/usr/bin/python
-# file name: $HOME/github/bio/Idontgiveafuck.py
-
-from Obsession import ObsessedWith as Obs
-
-Object = input("What makes you excited? ")
-
-def OtakuMe():
-    if Object.lower() == "watching anime":
-        Obs(Object)
-    elif Object.lower() == "reading manga":
-        Obs(Object)
-    elif Object.lower() == "learn to code":
-        Obs(Object)
-    else:
-        Obs("doing something")
-
-OtakuMe()
-```
+   * I've just successfully installed linux on laptop :)
+   * Rikka is mine!!!!!
