@@ -10,7 +10,7 @@
 - 💬 Ask me about nothing
 - 😄 Pronouns: what pronouns actually is?
 - ⚡ Not a fun fact: 
-   * I'm a normal boy
+   * I'm a normal boy, maybe
    * I am Termux user
    * I am learning how to code my self
    * my IDE: Android(Termux) with Neovim :v
