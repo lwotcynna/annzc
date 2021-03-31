@@ -14,4 +14,5 @@
    * I am Termux user
    * I am learning how to code my self
    * my IDE: Android(Termux) with Neovim :v
-   * I've just successfully installed linux on my laptop
+   * IDE?!
+   
