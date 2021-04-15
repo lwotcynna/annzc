@@ -14,6 +14,7 @@
    * I'm a normal person, maybe
    * I am learning how to code on SoloLearn.
    * I mean that's one of my online coding resources
-   * also gained some knowledge and experiances with random guy on the Telegram :)
+   * also gained some knowledge and experiences with random guy on the Telegram :)
    * my IDE: Android(Termux) with Neovim ❤️
-   
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=annzc&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
