@@ -15,6 +15,6 @@
    * I am learning how to code on SoloLearn
    * also gained some knowledge and experiences with random guy on the Telegram :)
    * my IDE: Termux
-   * Neovim is my favorite text editor ❤️
+   * Neovim is my favorite code editor ❤️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=annzc&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
