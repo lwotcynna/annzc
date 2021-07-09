@@ -11,10 +11,10 @@
 - 💬 Ask me about nothing
 - 😄 Pronouns: what pronouns actually is?
 - ⚡ Not a fun fact: 
-   * I'm a normal person, maybe
-   * I am learning how to code on SoloLearn.
-   * I mean that's one of my online coding resources
+   * I'm a normal person
+   * I am learning how to code on SoloLearn
    * also gained some knowledge and experiences with random guy on the Telegram :)
-   * my IDE: Android(Termux) with Neovim ❤️
+   * my IDE: Termux
+   * Neovim is my favorite text editor ❤️
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=annzc&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
