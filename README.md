@@ -10,7 +10,6 @@
 - 💬 Ask me about nothing
 - 😄 Pronouns: what pronouns actually is?
 - ⚡ Not a fun fact: 
-   * I'm a normal person
    * I am learning how to code on SoloLearn
    * also gained some knowledge and experiences with random guy on the Telegram :)
    * my IDE: Termux
