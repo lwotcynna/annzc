@@ -8,10 +8,10 @@
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about nothing
-- 😄 Pronouns: what pronouns actually is?
+- 😄 Pronouns: for practical purposes: I don't exist.
 - ⚡ Not a fun fact: 
-   * I am learning how to code on SoloLearn
-   * also gained some knowledge and experiences with random guy on the Telegram :)
+   * I am learning how to code with anyone
+   * gained knowledges and experiences with random guy on the Telegram :)
    * my IDE: Termux
    * Neovim is my favorite code editor ❤️
 
