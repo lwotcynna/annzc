@@ -4,7 +4,7 @@
 
 ## Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 - 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning c/c++ ✌️
+- 🌱 I’m currently fucked up ✌️
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with anyone
 - 💬 Ask me about nothing
