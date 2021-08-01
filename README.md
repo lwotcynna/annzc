@@ -11,7 +11,7 @@
 - 😄 Pronouns: for practical purposes: I don't exist.
 - ⚡ Not a fun fact: 
    * I am learning how to code with anyone
-   * gained knowledges and experiences with random guy on the Telegram :)
+   * Ah that doesn't matter
    * my IDE: Termux
    * Neovim is my favorite code editor ❤️
 
