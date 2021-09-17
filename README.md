@@ -15,4 +15,4 @@
    * my IDE: Termux
    * Neovim is my favorite code editor ❤️
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=annzc&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lwotcynna&count_private=true&show_icons=true&include_all_commits=true&theme=material-palenight)
